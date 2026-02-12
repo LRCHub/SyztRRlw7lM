@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "エピローグに君はいない",
+  "base_artist": "佐藤原材料",
+  "createdAt": "2026-02-12T04:30:30.108627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エピローグに君はいない (feat. 初音ミク)",
+      "artist": "佐藤原材料",
+      "has_synced": true,
+      "path": "select/01_エピローグに君はいない_(feat._初音ミク)_佐藤原材料.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エピローグに君はいない",
+      "artist": "佐藤原材料",
+      "has_synced": true,
+      "path": "select/02_エピローグに君はいない_佐藤原材料.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エピローグに君はいない",
+      "artist": "佐藤原材料",
+      "has_synced": false,
+      "path": "select/pl_01_エピローグに君はいない_佐藤原材料.txt"
+    }
+  ]
+}
